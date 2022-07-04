@@ -8,7 +8,8 @@
   {"key":"低端影视","name":"低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-    {
+  {"key":"Lib","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1}, 
+  {
       "key": "300看世界",
       "name": "300看世界(v2)",
       "type": 3,
@@ -17,8 +18,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
-    },
-    {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+  },
+  {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"真不卡","name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,7 +44,9 @@
       "quickSearch": 1,
       "filterable": 1
    }, 
- 
+  {"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
+  {"key":"csp_biubiu_555电影","name":"5️⃣555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://szxinhui508.github.io/555dianying/555dianying.json"},
+  {"key":"csp_xpath_jbb","name":"🎁剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szxinhui508.github.io/jubaibaiyingshi/jubaibai.json"},
   {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.aliyundrive.com/drive/folder/d7299c92993745888619650038bcfa66"},
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.aliyundrive.com/drive/folder/d7299c92993745888619650038bcfa66"},
   {"key":"PushAgent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.aliyundrive.com/drive/folder/d7299c92993745888619650038bcfa66"}
