@@ -1,6 +1,6 @@
 { 
-  "spider": "https://szxinhui508.github.io/tzl20220701jar/custom_spider.jar",
-  "spider": "https://szxinhui508.github.io/tzlnewjar/0630.jar",
+  "spider": "https://szxinhui508.github.io/tzl20220701jar/custom_spider0703.jar",
+  "spider": "https://szxinhui508.github.io/tzlnewjar/梅老六0701.jar",
 
   "sites": [
   {"key":"Bili","name":"B站","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"},
